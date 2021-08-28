@@ -31,7 +31,7 @@ const Column3D = ({ data }) => {
     dataSource: {
       // Chart Configuration
       chart: {
-        caption: 'Moast Forked',
+        caption: 'Most Forked',
         yAxisName: 'Forks',
         xAxisName: 'Repos',
         xAxisNameFontSize: '16px',
